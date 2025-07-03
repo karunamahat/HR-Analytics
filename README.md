@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-This project is a comprehensive HR Analytics solution built using SQL and Power BI. It analyzes employee data to uncover key insights related to attrition, performance, satisfaction, salary information, and experience.
+This project is a comprehensive HR Analytics project built using SQL and Power BI. It analyzes employee data to uncover key insights related to attrition, performance, satisfaction, salary information, and experience.
 
 ## Key Features
 
